@@ -1,0 +1,10 @@
+{
+  "name": "Codegen Plugin",
+  "id": "",
+  "api": "1.0.0",
+  "enableProposedApi": false,
+  "main": "dist/code.js",
+  "editorType": ["dev"],
+  "capabilities": ["codegen"],
+  "codegenLanguages": [{ "label": "React", "value": "react" }]
+}
